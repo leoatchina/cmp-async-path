@@ -1,4 +1,5 @@
 https://codeberg.org/FelipeLema/cmp-async-path
+https://codeberg.org/fycing/cmp-async-path
 
 # cmp-async-path
 
